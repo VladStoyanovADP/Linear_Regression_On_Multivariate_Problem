@@ -20,23 +20,27 @@ In my case, I've used Google Spreadsheets to clean the data.
 
 # Analyze
 
-The code with all the explaining comments is attached to this repository.
+The code with all the explaining comments is inside the Scripts folder in this repository.
 
 This visual showcases to the developer that an appropriate alpha and number of iterations values are chosen for running gradient descent algorithm.
 
-(picture)
+![Cost_Gradient_Descent](https://github.com/VladStoyanoff/Multivariate_Linear_Regression_Problem_Solved_With_ML_Algorithms/blob/main/Visuals/Cost_Gradient_Descent.png)
 
 # Post-Process
 
 After we have the data, we export it as csv file and upload it to google spreadsheets where we remove the scientific notation and calculate the mean of the results of both the methods used in a new column. This column is our final price prediction.
 
-Picture of first 10 predictions:
+Picture of the first 10 predictions (first row is the ID of the house, second row is the mean predicted price, third row is the predicted price using normal equation and the fourth row is the predicted price using gradient descent algorithm):
 
-(pictures of first 10)
+![First_10](https://github.com/VladStoyanoff/Multivariate_Linear_Regression_Problem_Solved_With_ML_Algorithms/blob/main/Visuals/First_10.png)
 
-Picture of last 10 predictions:
+Picture of the last 10 predictions (first row is the ID of the house, second row is the mean predicted price, third row is the predicted price using normal equation and the fourth row is the predicted price using gradient descent algorithm):
 
-(picture of last 10)
+![Last_10](https://github.com/VladStoyanoff/Multivariate_Linear_Regression_Problem_Solved_With_ML_Algorithms/blob/main/Visuals/Last_10.png) 
 
 All the supporting files and scripts are attached to this repository. One could also find the raw and processed data.
+
+# Result
+
+Using normal equation and gradient descent algorithm, the predicted prices of the houses can be found in this csv file.
 
