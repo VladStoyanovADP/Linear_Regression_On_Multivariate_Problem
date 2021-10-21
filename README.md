@@ -38,7 +38,7 @@ Picture of the last 10 predictions (first row is the ID of the house, second row
 
 ![Last_10](https://github.com/VladStoyanoff/Multivariate_Linear_Regression_Problem_Solved_With_ML_Algorithms/blob/main/Visuals/Last_10.png) 
 
-All the supporting files and scripts are attached to this repository. One could also find the raw and processed data.
+All the supporting files and scripts are attached to this repository. One could also find the raw and processed data. The processed and unprocessed datasets are quite large (1450x81), so be careful when opening them. On weaker machines, a crash may occur.
 
 # Result
 
