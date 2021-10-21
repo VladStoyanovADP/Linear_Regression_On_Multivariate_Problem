@@ -42,5 +42,5 @@ All the supporting files and scripts are attached to this repository. One could 
 
 # Result
 
-Using normal equation and gradient descent algorithm, the predicted prices of the houses can be found in this csv file.
+Using normal equation and gradient descent algorithm, the predicted prices of the houses can be found [in this csv file](https://github.com/VladStoyanoff/Multivariate_Linear_Regression_Problem_Solved_With_ML_Algorithms/blob/main/Predicted_Prices/Predicted_Prices_Result.csv).
 
