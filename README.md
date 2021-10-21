@@ -1,6 +1,6 @@
 # Introduction
 
-This readme file will go over the steps taken from start to finish. 
+This readme file will go over the steps taken from start to finish to predict the prices of a given dataset with houses with 79 features. 
 
 # Ask
 
