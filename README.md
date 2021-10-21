@@ -26,7 +26,7 @@ This visual showcases to the developer that an appropriate alpha and number of i
 
 ![Cost_Gradient_Descent](https://github.com/VladStoyanoff/Multivariate_Linear_Regression_Problem_Solved_With_ML_Algorithms/blob/main/Visuals/Cost_Gradient_Descent.png)
 
-# Post-Process
+# Post_Process
 
 After we have the data, we export it as csv file and upload it to google spreadsheets where we remove the scientific notation and calculate the mean of the results of both the methods used in a new column. This column is our final price prediction.
 
